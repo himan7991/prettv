@@ -16,7 +16,7 @@ It uses Prettier, React TypeScript, Tailwind CSS, and Vite and is a template to 
 
 ### Setup
 
-1. Use `git clone https://github.com/himan7991/prettier-react-ts-tailwind-vite-template.git your_project_name` to clone this repo to a new folder
+1. Use `git clone https://github.com/himan7991/prettv.git your_project_name` to clone this repo to a new folder
 2. Run `yarn install` to install all of the project's dependencies
 3. Build the project for production: `yarn build`
 4. Run the local development server: `yarn dev`
