@@ -2,7 +2,7 @@
 
 P.RE.T.T.V is a fork of [nrabhiram's Vite React Typescript Tailwind Template](https://github.com/nrabhiram/vite-react-ts-tailwind-template).
 
-It uses Prettier, React TypeScript, Tailwind CSS, and Vite and is a template to be used as a starting point for new projects. It also includes the Prettier plugin for Tailwind CSS class autosorting
+It uses Prettier, React TypeScript, Tailwind CSS, and Vite and is a template to be used as a starting point for new projects. It also includes the Prettier plugin for Tailwind CSS class auto-sorting, sample folders, and path aliases for better/cleaner imports.
 
 ## Technologies
 
