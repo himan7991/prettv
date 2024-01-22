@@ -26,7 +26,8 @@ Note: to keep the sample folders from being ignored, I have added some empty `.g
 4. Change the name and description in the `package.json`
 5. (Optional) Run `git init` to initialize a new repository  
 6. Run `yarn install` to install all of the project's dependencies
-7. Build the project for production with `yarn build`
+7. Run `yarn upgrade` to upgrade all packages to their newest versions
+8. Build the project for production with `yarn build`
 
 ## License
 
