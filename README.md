@@ -19,15 +19,16 @@ Note: to keep the sample folders from being ignored, I have added some empty `.g
 ### Setup
 
 1. Use `git clone https://github.com/himan7991/prettv your_project_name` to clone this repo to a new folder
-2. ‼️IMPORTANT‼️ Navigate to the new folder and delete the .git folder
+2. ‼️IMPORTANT‼️ Navigate to the new folder and delete the **.git** folder
     - For Linux terminal: use `rm -rf .git`
     - For Windows terminal: use `rm -recursive -force .git`
-    - For Windows CMD: use `del .git`
-4. Change the name and description in the `package.json`
-5. (Optional) Run `git init` to initialize a new repository  
-6. Run `yarn install` to install all of the project's dependencies
-7. Run `yarn upgrade` to upgrade all packages to their newest versions
-8. Build the project for production with `yarn build`
+    - For Windows CMD: use `del /s .git`
+4. Change the **name** and **description** in the `package.json`
+5. If you intend to deploy this to GitHub pages, change the **base** value on `vite.config.ts` to your project repo name
+6. (Optional) Run `git init` to initialize a new repository  
+7. Run `yarn install` to install all of the project's dependencies
+8. Run `yarn upgrade` to upgrade all packages to their newest versions
+9. Build the project for production with `yarn build`
 
 ## License
 
